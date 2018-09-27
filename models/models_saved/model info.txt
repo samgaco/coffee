@@ -1,0 +1,6 @@
+3epoch model, 15% test, validacion Y 
+8epoch model, 5%? 
+
+(id solo cortadas, no se quitan de manera absoluta)
+
+

@@ -1,0 +1,38 @@
+#accuracies 
+
+First: 
+             precision    recall  f1-score   support
+          0       0.85      0.99      0.91     37981
+          1       0.86      0.35      0.50      9961
+avg / total       0.85      0.85      0.83     47942
+Second: 
+             precision    recall  f1-score   support
+          0       0.91      0.89      0.90     40862
+          1       0.42      0.47      0.45      7080
+avg / total       0.84      0.83      0.83     47942
+Third: 
+             precision    recall  f1-score   support
+          0       0.94      0.77      0.85     44144
+          1       0.15      0.47      0.23      3798
+avg / total       0.88      0.75      0.80     47942
+Fourth: 
+             precision    recall  f1-score   support
+          0       0.84      0.70      0.76     34696
+          1       0.45      0.64      0.53     13246
+avg / total       0.73      0.68      0.70     47942
+Fifth: 
+             precision    recall  f1-score   support
+          0       0.79      0.98      0.87     34085
+          1       0.89      0.34      0.50     13857
+avg / total       0.82      0.80      0.76     47942n - 
+
+
+
+
+Over validation - Relu function activation
+mean_squared_error(merge_final["score_y"],merge_final["mean"])
+1.8338868693251469
+
+Over validation - tanh activation function
+mean_squared_error(merge_final["score_y"],merge_final["mean"])
+1.8760976258388096

@@ -1,0 +1,5 @@
+
+- https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795
+- https://www.kaggle.com/vbookshelf/word2vec-cnn-0-056-lb
+- https://github.com/thinline72/toxic/tree/master/sergeif
+- http://cs231n.github.io/convolutional-networks/

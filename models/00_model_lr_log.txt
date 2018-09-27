@@ -1,0 +1,119 @@
+CV Log_loss score for class one is -0.34048407421969107
+CV Accuracy score for class one is 0.855089344242207
+CV ROC_AUC score 0.8758445713750307
+[[36640  1341]
+ [ 5331  4630]]
+             precision    recall  f1-score   support
+          0       0.87      0.96      0.92     37981
+          1       0.78      0.46      0.58      9961
+avg / total       0.85      0.86      0.85     47942
+CV Log_loss score for class two is -0.3032823608103264
+CV Accuracy score for class two is 0.881031992801
+CV ROC_AUC score 0.8503713028031238
+[[40052   810]
+ [ 4616  2464]]
+             precision    recall  f1-score   support
+          0       0.90      0.98      0.94     40862
+          1       0.75      0.35      0.48      7080
+avg / total       0.88      0.89      0.87     47942
+CV Log_loss score for class three is -0.2118587685006872
+CV Accuracy score for class three is 0.9292074243416248
+CV ROC_AUC score 0.8426566253752141
+[[43947   197]
+ [ 3091   707]]
+             precision    recall  f1-score   support
+          0       0.93      1.00      0.96     44144
+          1       0.78      0.19      0.30      3798
+avg / total       0.92      0.93      0.91     47942
+CV Log_loss score for class four is -0.4536181475855692
+CV Accuracy score for class four is 0.7868176764653259
+CV ROC_AUC score 0.8187435994181302
+[[32149  2547]
+ [ 7383  5863]]
+             precision    recall  f1-score   support
+          0       0.81      0.93      0.87     34696
+          1       0.70      0.44      0.54     13246
+avg / total       0.78      0.79      0.78     47942
+CV Log_loss score for class five is -0.40254908294298436
+CV Accuracy score for class five is 0.8166669983011206
+CV ROC_AUC score 0.8686536495509695
+[[31620  2465]
+ [ 6097  7760]]
+             precision    recall  f1-score   support
+          0       0.84      0.93      0.88     34085
+          1       0.76      0.56      0.64     13857
+avg / total       0.82      0.82      0.81     47942
+Total average CV Log_loss score is -0.3423584868118516
+Total average CV ROC_AUC score is 0.8512539497044938
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results for the heavydata set:
+
+Features with lowest idf: 
+['food' 'place' 'good']
+Features with highest idf:
+['grilled different' 'grilled dill' '鼓汁排骨spare ribs']
+Features with lowest tfidf:
+['mode 95' 'raisin sides' 'homogenized garlic']
+Features with highest tfidf: 
+['dave' 'awesome' 'different']
+
+CV Log_loss score for class one is -0.2443995956880997
+CV Accuracy score for class one is 0.9164096707658066
+CV ROC_AUC score 0.8343512698075485
+[[175373   1584]
+ [ 14207   4229]]
+             precision    recall  f1-score   support
+          0       0.93      0.99      0.96    176957
+          1       0.73      0.23      0.35     18436
+avg / total       0.91      0.92      0.90    195393
+CV Log_loss score for class two is -0.45103792760132044
+CV Accuracy score for class two is 0.7959922292604562
+CV ROC_AUC score 0.8239942766710024
+[[130067  10660]
+ [ 28564  26102]]
+             precision    recall  f1-score   support
+          0       0.82      0.92      0.87    140727
+          1       0.71      0.48      0.57     54666
+avg / total       0.79      0.80      0.79    195393
+CV Log_loss score for class three is -0.4193273956218972
+CV Accuracy score for class three is 0.8246511451650397
+CV ROC_AUC score 0.782678471344337
+[[150189   5602]
+ [ 28366  11236]]
+             precision    recall  f1-score   support
+          0       0.84      0.96      0.90    155791
+          1       0.67      0.28      0.40     39602
+avg / total       0.81      0.83      0.80    195393
+CV Log_loss score for class four is -0.4916109771582448
+CV Accuracy score for class four is 0.7571778924330875
+CV ROC_AUC score 0.7989967858218523
+[[121158  15164]
+ [ 31647  27424]]
+             precision    recall  f1-score   support
+          0       0.79      0.89      0.84    136322
+          1       0.64      0.46      0.54     59071
+avg / total       0.75      0.76      0.75    195393
+CV Log_loss score for class five is -0.26991202393623637
+CV Accuracy score for class five is 0.8990818420428252
+CV ROC_AUC score 0.8538813558191947
+[[168609   3166]
+ [ 16112   7506]]
+             precision    recall  f1-score   support
+          0       0.91      0.98      0.95    171775
+          1       0.70      0.32      0.44     23618
+avg / total       0.89      0.90      0.88    195393
+Total average CV Log_loss score is -0.3752575840011597
+Total average CV ROC_AUC score is 0.818780431892787

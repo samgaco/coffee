@@ -1,0 +1,6 @@
+https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras
+
+https://machinelearningmastery.com/best-practices-document-classification-deep-learning/
+
+Dropout:
+	-https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/
