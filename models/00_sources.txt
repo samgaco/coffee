@@ -1,2 +1,0 @@
-code
-	https://www.kaggle.com/adamschroeder/countvectorizer-tfidfvectorizer-predict-comments
